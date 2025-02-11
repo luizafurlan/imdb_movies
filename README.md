@@ -37,8 +37,15 @@ The CRISP-DM (Cross Industry Standard Process for Data Mining) methodology is em
 
 ## What's included
 
-This project contains two folders and 3 notabooks. In the Data folder, there is the data used in the analysis downloaded in [Kaggle](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023/data), while in the Final Dataset folder there is the data merged and cleaned. 
-Also, the 3 notebooks was constructed to Gathering Data, Cleaning and Undestand the Dataset, and finally, the analysis and prediction revenue. The steps of thsi process were separated to a better organization.  
+This project contains two folders and 3 notebooks. In the Data folder, there is the data used in the analysis downloaded in [Kaggle](https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023/data), while in the Final Dataset folder there is the data merged and cleaned. 
+Also, the 3 notebooks was constructed to Gathering Data, Cleaning and Undestand the Dataset, and finally, the analysis and prediction revenue. The steps of this process were separated to a better organization.  
+
+## Requirements
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit Learn
 
 ## Conclusion
 
